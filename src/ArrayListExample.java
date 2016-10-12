@@ -2,7 +2,11 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-
+/**
+ * 
+ * @author Gangu
+ *
+ */
 public class ArrayListExample {
 
 	public static void main(String[] args) {
